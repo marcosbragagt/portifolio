@@ -1071,3 +1071,8 @@ section {
   gap: 20px;
   height: 100%;
 }
+.citacao {
+  color: #0e2442;
+  text-decoration: underline;
+  text-decoration-color:#1f5297 ;
+}
